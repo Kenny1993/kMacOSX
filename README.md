@@ -253,4 +253,28 @@ https://www.alfredapp.com/
 
 修改快捷键为 command＋command，连按两下打开 Alfred 搜索框
 
-更新待续。。。
+付费版 workflow 功能说明待续。。。
+
+10.ShiftIt
+
+ShiftIt 一款窗口管理工具，可以快速定位窗口，官网：https://en.softonic.com/
+
+常用快捷键
+
+control＋option＋command＋⬅️     快速定位窗口在左半屏幕
+
+control＋option＋command＋➡️     快速定位窗口在右半屏幕
+
+control＋option＋command＋⬆️     快速定位窗口在上半屏幕
+
+control＋option＋command＋⬇️     快速定位窗口在下半屏幕
+
+control＋option＋command＋F     快速全屏／退出全屏窗口
+
+control＋option＋command＋1     快速定位窗口在左上屏幕
+
+control＋option＋command＋2     快速定位窗口在右上屏幕
+
+control＋option＋command＋3     快速定位窗口在左下屏幕
+
+control＋option＋command＋4     快速定位窗口在右下屏幕
